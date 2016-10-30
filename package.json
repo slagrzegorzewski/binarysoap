@@ -1,0 +1,17 @@
+{
+  "name": "sg",
+  "version": "1.0.0",
+  "description": "my site",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-jshint": "^2.0.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slawomir Grzegorzewski",
+  "license": "ISC"
+}
